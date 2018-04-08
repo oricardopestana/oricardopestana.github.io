@@ -29,7 +29,7 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: #EEC643;
 
 }
 
@@ -37,11 +37,40 @@ h2 {
     color: blueviolet;
 }
 
-#navbar {
-    -webkit-animation: 3s slidein;
+p {
+    color: #5EB1BF;
 }
 
+span {
+    color: #E85F5C;
+}
 
+#navbar {
+    position: sticky;
+    top: 1px;
+    z-index: 99;
+
+}
+
+#whoamibutton:active {
+    color: #E85F5C;
+}
+
+#whoamibutton:visited {
+    color: #EEC643;
+}
+
+#whoamibutton:hover {
+    color: #5EB1BF;
+}
+
+#bodyOfTheWebsite {
+    scroll-padding-top: 100px;
+}
+
+#whoami {
+    padding-top: 100px;
+}
 
 #navbarBG {
     -webkit-animation: 3s slidein;
