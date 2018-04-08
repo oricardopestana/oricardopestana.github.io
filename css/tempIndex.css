@@ -1,9 +1,45 @@
+* {
+    background-color: #2A2D34;
+}
+
 .centeredContent {
     position: relative;
     display: inline-block;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
     font-family: 'Inconsolata', monospace;
+}
+
+#title {
+    padding-top: 200px;
+    color: #E85F5C;
+}
+
+h2 {
+    color: #EEC643;
+}
+
+.icons {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.icon {
+    color: #5EB1BF;
+    font-size: 40px; !important;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.fa-mobile-alt:visited, .fa-envelope:visited, .fa-github:visited, .fa-linkedin:visited, .fa-whatsapp:visited {
+    color: #5E548E;
+}
+.fa-mobile-alt:active, .fa-envelope:active, .fa-github:active, .fa-linkedin:active, .fa-whatsapp:active {
+    color: #EEC643;
+}
+
+.fa-mobile-alt:hover, .fa-envelope:hover, .fa-github:hover, .fa-linkedin:hover, .fa-whatsapp:hover {
+    color: #E85F5C;
 }
