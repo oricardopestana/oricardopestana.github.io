@@ -17,6 +17,10 @@ h1, h2 {
     color: #E85F5C;
 }
 
+h1 {
+    font-size: 130%;
+}
+
 h2 {
     color: #EEC643;
 }
