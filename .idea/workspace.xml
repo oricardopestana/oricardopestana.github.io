@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb83e741-a116-4bf0-8e56-29538bc6f28e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="fb83e741-a116-4bf0-8e56-29538bc6f28e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,7 +18,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="306">
               <caret line="41" column="145" selection-start-line="41" selection-start-column="145" selection-end-line="41" selection-end-column="145" />
               <folding>
                 <element signature="e#644#648#1" expanded="true" />
@@ -540,12 +538,12 @@
       <workItem from="1522425365928" duration="1045000" />
       <workItem from="1522702199474" duration="67000" />
       <workItem from="1522702293680" duration="4400000" />
-      <workItem from="1523098751652" duration="11359000" />
+      <workItem from="1523098751652" duration="12171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17204000" />
+    <option name="totallyTimeSpent" value="18016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -558,7 +556,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3611898" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3611898" />
       <window_info id="Favorites" order="7" weight="0.32974002" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" id="Palette" order="3" />
@@ -692,7 +690,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="306">
           <caret line="41" column="145" selection-start-line="41" selection-start-column="145" selection-end-line="41" selection-end-column="145" />
           <folding>
             <element signature="e#644#648#1" expanded="true" />
