@@ -72,6 +72,14 @@ span {
     padding-top: 100px;
 }
 
+#personalprojects {
+    padding-top: 100px;
+}
+
+#moreinfo {
+    padding-top: 100px;
+}
+
 #navbarBG {
     -webkit-animation: 3s slidein;
     padding: 10px;
