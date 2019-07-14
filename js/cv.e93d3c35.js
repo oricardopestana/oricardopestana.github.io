@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["cv"],{"20c8":function(e,t,a){"use strict";a.r(t);var c=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},n=[function(){var e=this,t=e.$createElement,a=e._self._c||t;return a("div",{staticClass:"cv"},[a("p",[e._v("begin")]),a("embed",{attrs:{src:"../assets/cv/RicardoPestanaCurriculumVitae.pdf",type:"application/pdf"}}),a("p",[e._v("end")])])}],s={name:"cv"},r=s,i=a("2877"),p=Object(i["a"])(r,c,n,!1,null,"6d5ab8b8",null);t["default"]=p.exports}}]);
+//# sourceMappingURL=cv.e93d3c35.js.map
